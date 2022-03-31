@@ -1,9 +1,8 @@
 ---
-layout: resume
-title: Andrew Hayes's Resume
+layout: cv
+title: Andrew Hayes' Resume
 ---
 # Andrew Hayes
-Description
 
 <div id="webaddress">
 <a href="ahayes17@byui.edu">ahayes17@byui.edu</a>
