@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Andrew Hayes' Resume
 ---
 # Andrew Hayes
@@ -27,18 +27,18 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `August 2018 - December 2018`
 __Aquitas Solutions__, Atlanta, GA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Assisted in the development of multiple back end services for managing customer assets
+- Developed services to monitor properties of customer assets and sending alerts and work orders based on a property's state
+
 
 ### Junior Developer
 
 `October 2020 - March 2022`
 __Aquitas Solutions__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Developed multiple front end interfaces for customers to navigate their asset management application.
+- Worked on optimizing multiple back-end database services to improve the time it took for a user to view and visualize data.
+- Developed front end solutions to allow for a customer to more easily navigate and interact with the asset management application.
 
 ## Service and Work History
 
@@ -58,6 +58,6 @@ __Service Missionary__, Southern California
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2022 -->
 
 
